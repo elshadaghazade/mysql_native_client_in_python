@@ -1,4 +1,4 @@
-# Telegram Bot Client Example - Techacademy.az
+# MySQL Native Client in Python - Techacademy.az
 
 MySQL Client/Server protokolunu daha yaxşı başa düşmək üçün python dilində sadə native mysql client. Təhsil məqsədlidir
 
