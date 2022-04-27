@@ -14,7 +14,7 @@ git clone https://github.com/elshadaghazade/mysql_native_client_in_python.git
 ```
 2. Daha sonra fayllar olan qovluğa keçərək virtualenv-i set edirik:
 ```
-cd techacademy_mysql_native_client_in_python
+cd mysql_native_client_in_python
 virtualenv -p $(which python3) .py3
 ```
 
