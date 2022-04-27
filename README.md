@@ -1,4 +1,4 @@
-# MySQL Native Client in Python - Techacademy.az
+# MySQL Native Client in Python - EACAMP
 
 MySQL Client/Server protokolunu daha yaxşı başa düşmək üçün python dilində sadə native mysql client. Təhsil məqsədlidir
 
@@ -40,4 +40,4 @@ Qeyd: virtualenv-i deaktiv etmək üçün deactivate əmrini yazmağınız kifay
 
 ## Authors
 
-* **Elshad Agayev** - *Fullstack Developer* - [LinkedIn Profile](https://www.linkedin.com/in/elshadaghazadeh/)
+* **Elshad Agayev** - *Software Engineer*
