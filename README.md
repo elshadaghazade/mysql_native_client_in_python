@@ -10,7 +10,7 @@ Python3, pip, virtualenv
 
 1. Repo-nu local kompüterimizə clone edirik:
 ```
-git clone https://github.com/elshadaghazade/techacademy_mysql_native_client_in_python.git
+git clone https://github.com/elshadaghazade/mysql_native_client_in_python.git
 ```
 2. Daha sonra fayllar olan qovluğa keçərək virtualenv-i set edirik:
 ```
